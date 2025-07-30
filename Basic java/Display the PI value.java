@@ -1,4 +1,4 @@
-*/ Write a C program to display the value of PI accurate to 12 decimal places.
+/*  Write a C program to display the value of PI accurate to 12 decimal places.
 
 Input Format
 
@@ -14,7 +14,7 @@ Display the PI value
 
 Sample Output 0
 
-3.142857142857 /*
+3.142857142857 */
 
 import java.io.*;
 import java.util.*;
