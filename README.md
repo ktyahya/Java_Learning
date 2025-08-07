@@ -11,7 +11,6 @@ Each day I solve one or more Java problems from HackerRank and update the reposi
 - ✅ Clean Java code
 - 📝 Comments explaining logic
 - 📂 Organized folder structure
-```text
 
 🔗 My HackerRank Profile
 You can view all my submissions and Hackos here:
