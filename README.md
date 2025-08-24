@@ -1,6 +1,6 @@
 # HackerRank Java Practice 🚀
 
-This repository contains all my daily Java practice solutions from [HackerRank]([https://www.hackerrank.com/ktyahya792/hackos](https://drive.google.com/file/d/1KcunP9F4i50_lP3BJ1lT-jCJKevFWXdn/view?usp=sharing)). I'm learning Java from the basics, solving problems consistently, and organizing them by topic for easy reference.
+This repository contains all my daily Java practice solutions from [HackerRank](https://drive.google.com/file/d/1KcunP9F4i50_lP3BJ1lT-jCJKevFWXdn/view?usp=sharing). I'm learning Java from the basics, solving problems consistently, and organizing them by topic for easy reference.
 
 > 📌 **Goal:** Build a strong Java foundation, improve problem-solving skills, and create a professional portfolio to showcase to recruiters and interviewers.
 
